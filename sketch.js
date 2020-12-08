@@ -1,5 +1,3 @@
-//Create variables here
-
 var dog, normalDog,happyDog, database, foodS, foodStock;
 
 var feed,addFood,fedTime,lastFed,foodObject,bath,bathroom,napy,player,living;
@@ -10,9 +8,9 @@ function preload()
 {
   //load images here
   
-  happyDog = loadImage("dogImg.png");
+  happyDog = loadImage("dogImg1.png");
 
-  normalDog = loadImage("dogImg1.png");
+  normalDog = loadImage("dogImg.png");
 
   sleepyDog = loadImage("Bed Room.png");
 
