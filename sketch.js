@@ -10,15 +10,15 @@ function preload()
 {
   //load images here
   
-  happyDog = loadImage("images/dogImg.png");
+  happyDog = loadImage("dogImg.png");
 
-  normalDog = loadImage("images/dogImg1.png");
+  normalDog = loadImage("dogImg1.png");
 
-  sleepyDog = loadImage("images/Bed Room.png");
+  sleepyDog = loadImage("Bed Room.png");
 
-  bathroom = loadImage("images/Wash Room.png");
+  bathroom = loadImage("Wash Room.png");
 
-  living = loadImage("images/Living Room.png")
+  living = loadImage("Living Room.png")
 }
 
 function setup() {
